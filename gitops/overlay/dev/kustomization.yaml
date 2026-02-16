@@ -4,7 +4,7 @@ resources:
 images:
   - name: REPLACE_IMAGE
     newName: 747707972724.dkr.ecr.us-west-2.amazonaws.com/gitops-web
-    newTag: v1
+    newTag: v2
 
 patches:
   - target:
